@@ -43,3 +43,16 @@ def generate_eda_insights(df):
 if __name__ == "__main__":
     # Sample execution pipeline structure
     print("Data Processing & EDA Pipeline Initialized...")
+
+# Telecom Customer Churn EDA & Data Cleaning Pipeline
+
+An end-to-end Python project focused on cleaning telecom customer data and performing Exploratory Data Analysis (EDA) to uncover churn insights.
+
+## 🛠️ Tech Stack & Libraries
+* **Python**
+* **Pandas & NumPy** (Data Manipulation & Cleaning)
+* **Matplotlib & Seaborn** (Data Visualization)
+
+## 📌 Features
+* **Data Cleaning:** Standardizes column names, handles missing numeric values, and converts data types.
+* **Exploratory Data Analysis (EDA):** Generates distribution plots and visualizes monthly charges against customer churn status.
